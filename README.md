@@ -4,7 +4,7 @@ Spookey Web is a Halloween-themed mini-game collection built with Flutter. It in
 - Responsive layouts for web and mobile
 
 Screenshots
-Screenshots are given below:
+
 Home / main screen
 ![Home](assets/screenshots/main-screen.PNG)
 
@@ -15,10 +15,10 @@ Pumpkin Pick (mission 2)
 ![Pumpkin Picker](assets/screenshots/pumpkin-pick.PNG)
 
 Memory Mansion (mission 3)
-![Memory Mansion](assets/screenshots/memory-mansion.PNG)
+![Memory Mansion](assets/screenshots/memory-match.PNG)
 
 Candle Keepers (mission 4)
-![Candle Keepers](assets/screenshots/candle-keepers.PNG)
+![Candle Keepers](assets/screenshots/candle-keeper.PNG)
 
 
 Features
